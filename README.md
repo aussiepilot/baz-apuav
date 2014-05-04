@@ -1,4 +1,3 @@
 baz-apuav
 =========
-
-commercail aerial photography using quads &amp; hexes via Base Industries MR4 &amp; MR6
+Commercial Aerial Photography trading as APUAV in Australia, Using the Aussie designed BaskAerospace MR4's & MR6's running APM 2.6 controllers
